@@ -1,0 +1,41 @@
+Emp ID,First Name,Last Name,Department,Designation,Hire Date,Base Salary,Bonus %,Region,Manager,Performance Rating,Email,Phone,Status
+E1001,Priya,Nair,Finance,Analyst,12-01-2022,42000,8,North,Sameer Joshi,4,priya.nair@corpsolutions.com,9876543210,Active
+E1002,Karan,Malhotra,Marketing,Executive,05-07-2021,38000,6,South,Anita Rao,3,karan.m@corpsolutions.com,9876543211,Active
+E1003,Neha,Sharma,Operations,Manager,18-03-2019,72000,12,East,Deepak Nair,5,neha.sharma@corpsolutions.com,9876543212,Active
+E1004,Rahul,Mehta,Finance,Sr. Analyst,23-11-2020,55000,10,West,Sameer Joshi,4,rahul.mehta@corpsolutions.com,9876543213,Active
+E1005,Simran,Kaur,HR,Executive,14-06-2023,35000,5,North,Fatima Sheikh,3,simran.k@corpsolutions.com,9876543214,Active
+E1006,Arjun,Reddy,IT,Developer,02-09-2021,62000,9,South,Kiran Patel,4,arjun.r@corpsolutions.com,9876543215,Active
+E1007,Kavita,Joshi,Marketing,Manager,30-01-2018,78000,14,East,Anita Rao,5,kavita.j@corpsolutions.com,9876543216,Active
+E1008,Vikram,Singh,Operations,Coordinator,11-04-2022,34000,5,West,Deepak Nair,3,vikram.s@corpsolutions.com,9876543217,Active
+E1009,Anjali,Bose,Finance,Manager,08-08-2017,85000,15,North,Sameer Joshi,5,anjali.b@corpsolutions.com,9876543218,Active
+E1010,Rohan,Kapoor,IT,Sr. Developer,19-12-2019,70000,11,South,Kiran Patel,4,rohan.k@corpsolutions.com,9876543219,Active
+E1011,Divya,Menon,HR,Manager,25-02-2018,76000,13,East,Fatima Sheikh,5,divya.m@corpsolutions.com,9876543220,Active
+E1012,Farhan,Ali,Marketing,Analyst,07-10-2022,40000,7,West,Anita Rao,3,farhan.a@corpsolutions.com,9876543221,Active
+E1013,Sneha,Iyer,Operations,Analyst,16-05-2023,37000,6,North,Deepak Nair,4,sneha.i@corpsolutions.com,9876543222,Active
+E1014,Manish,Verma,IT,Manager,03-03-2017,88000,16,South,Kiran Patel,5,manish.v@corpsolutions.com,9876543223,Active
+E1015,Ritika,Chawla,Finance,Executive,28-07-2023,33000,5,East,Sameer Joshi,3,ritika.c@corpsolutions.com,9876543224,Active
+E1016,Aditya,Rao,HR,Coordinator,09-01-2022,36000,6,West,Fatima Sheikh,4,aditya.r@corpsolutions.com,9876543225,Active
+E1017,Pooja,Desai,Marketing,Sr. Executive,22-11-2020,48000,8,North,Anita Rao,4,pooja.d@corpsolutions.com,9876543226,Active
+E1018,Tarun,Bhatia,Operations,Sr. Coordinator,15-06-2019,52000,9,South,Deepak Nair,3,tarun.b@corpsolutions.com,9876543227,On Leave
+E1019,Ayesha,Khan,IT,Developer,04-04-2022,58000,8,East,Kiran Patel,4,ayesha.k@corpsolutions.com,9876543228,Active
+E1020,Sanjay,Gupta,Finance,Analyst,17-09-2021,41000,7,North,Sameer Joshi,3,sanjay.g@corpsolutions.com,9876543229,Active
+E1021,Suresh,Kumar,Marketing,Executive,31-01-2023,36000,5,South,Anita Rao,3,suresh.k@corpsolutions.com,9876543230,Active
+E1022,Imran,Sheikh,Operations,Coordinator,20-08-2022,35000,6,West,Deepak Nair,4,imran.s@corpsolutions.com,9876543231,Active
+E1023,Meera,Pillai,HR,Executive,12-03-2023,34000,5,East,Fatima Sheikh,3,meera.p@corpsolutions.com,9876543232,Active
+E1024,Naveen,Pillai,IT,Tester,06-06-2021,45000,7,North,Kiran Patel,4,naveen.p@corpsolutions.com,9876543233,Active
+E1025,Shalini,Rao,Finance,Sr. Analyst,29-10-2019,58000,10,South,Sameer Joshi,5,shalini.r@corpsolutions.com,9876543234,Active
+E1026,Rohit,Deshpande,Marketing,Manager,14-02-2018,75000,13,East,Anita Rao,5,rohit.d@corpsolutions.com,9876543235,On Leave
+E1027,Lakshmi,Venkat,Operations,Manager,08-07-2017,82000,14,West,Deepak Nair,5,lakshmi.v@corpsolutions.com,9876543236,Active
+E1028,Deepa,Krishnan,IT,Developer,21-12-2022,55000,8,North,Kiran Patel,3,deepa.k@corpsolutions.com,9876543237,Active
+E1029,Amit,Patel,HR,Coordinator,03-05-2023,33000,5,South,Fatima Sheikh,3,amit.p@corpsolutions.com,9876543238,Active
+E1030,Nisha,Agarwal,Finance,Analyst,18-08-2022,40000,7,West,Sameer Joshi,4,nisha.a@corpsolutions.com,9876543239,Active
+E1031,Rajesh,Menon,IT,Sr. Developer,25-04-2020,68000,11,East,Kiran Patel,4,rajesh.m@corpsolutions.com,9876543240,Resigned
+E1032,Pallavi,Pandey,Marketing,Analyst,10-11-2022,39000,6,North,Anita Rao,4,pallavi.p@corpsolutions.com,9876543241,Active
+E1033,Gaurav,Saxena,Operations,Analyst,27-02-2023,37000,6,South,Deepak Nair,3,gaurav.s@corpsolutions.com,9876543242,Active
+E1034,Swati,Mishra,Finance,Executive,14-09-2023,32000,5,East,Sameer Joshi,3,swati.m@corpsolutions.com,9876543243,Active
+E1035,Varun,Kapoor,HR,Sr. Executive,06-01-2021,50000,9,West,Fatima Sheikh,4,varun.k@corpsolutions.com,9876543244,Active
+E1036,Isha,Tiwari,IT,Tester,19-07-2022,43000,7,North,Kiran Patel,3,isha.t@corpsolutions.com,9876543245,Active
+E1037,Vivek,Nambiar,Marketing,Sr. Executive,02-12-2020,47000,8,South,Anita Rao,4,vivek.n@corpsolutions.com,9876543246,Active
+E1038,Geeta,Raghavan,Operations,Sr. Coordinator,28-03-2019,54000,10,East,Deepak Nair,4,geeta.r@corpsolutions.com,9876543247,Active
+E1039,Harsh,Agarwal,Finance,Manager,11-06-2018,80000,14,West,Sameer Joshi,5,harsh.a@corpsolutions.com,9876543248,Active
+E1040,Rekha,Sundaram,IT,Manager,05-09-2017,90000,16,North,Kiran Patel,5,rekha.s@corpsolutions.com,9876543249,Active

@@ -1,0 +1,181 @@
+Txn ID,Emp ID,Transaction Date,Category,Amount,Payment Mode,Approved By,Remarks,Project Code
+T5001,E1001,03-01-2026,Travel,12500,Credit Card,Sameer Joshi,Client visit Delhi,P-201
+T5002,E1003,05-01-2026,Software License,45000,Bank Transfer,Deepak Nair,Annual Tableau renewal,P-305
+T5003,E1006,07-01-2026,Hardware,28000,Credit Card,Kiran Patel,Developer laptop RAM upgrade,P-102
+T5004,E1009,08-01-2026,Travel,18700,Bank Transfer,Sameer Joshi,Quarterly audit Bangalore,P-201
+T5005,E1002,10-01-2026,Marketing,32000,Credit Card,Anita Rao,Google Ads Jan campaign,P-403
+T5006,E1014,12-01-2026,Software License,72000,Bank Transfer,Kiran Patel,Azure subscription renewal,P-102
+T5007,E1007,14-01-2026,Marketing,15500,Credit Card,Anita Rao,Social media tools,P-403
+T5008,E1004,15-01-2026,Office Supplies,3200,Petty Cash,Sameer Joshi,Stationery and toner,P-201
+T5009,E1011,16-01-2026,Training,25000,Bank Transfer,Fatima Sheikh,HR analytics workshop,P-504
+T5010,E1005,18-01-2026,Office Supplies,1800,Petty Cash,Fatima Sheikh,Desk organizers,P-504
+T5011,E1008,19-01-2026,Travel,8500,Credit Card,Deepak Nair,Warehouse inspection Pune,P-305
+T5012,E1010,20-01-2026,Hardware,65000,Bank Transfer,Kiran Patel,Server rack replacement,P-102
+T5013,E1012,21-01-2026,Marketing,9800,Credit Card,Anita Rao,Brochure printing,P-403
+T5014,E1015,22-01-2026,Office Supplies,2100,Petty Cash,Sameer Joshi,Filing folders,P-201
+T5015,E1003,24-01-2026,Travel,22000,Credit Card,Deepak Nair,Vendor meet Mumbai,P-305
+T5016,E1017,25-01-2026,Marketing,41000,Bank Transfer,Anita Rao,Trade show booth,P-403
+T5017,E1019,26-01-2026,Software License,18500,Credit Card,Kiran Patel,JetBrains IDE licenses,P-102
+T5018,E1001,27-01-2026,Training,15000,Bank Transfer,Sameer Joshi,Excel advanced course,P-201
+T5019,E1020,28-01-2026,Office Supplies,4500,Petty Cash,Sameer Joshi,Printer cartridges,P-201
+T5020,E1013,29-01-2026,Travel,11200,Credit Card,Deepak Nair,Site visit Ahmedabad,P-305
+T5021,E1006,31-01-2026,Training,35000,Bank Transfer,Kiran Patel,AWS certification,P-102
+T5022,E1025,01-02-2026,Travel,14800,Credit Card,Sameer Joshi,Client presentation Chennai,P-201
+T5023,E1002,02-02-2026,Marketing,28000,Credit Card,Anita Rao,Facebook Ads Feb,P-403
+T5024,E1008,03-02-2026,Office Supplies,5600,Petty Cash,Deepak Nair,Warehouse labels and tape,P-305
+T5025,E1014,04-02-2026,Hardware,42000,Bank Transfer,Kiran Patel,Network switch upgrade,P-102
+T5026,E1011,05-02-2026,Training,30000,Bank Transfer,Fatima Sheikh,Talent management seminar,P-504
+T5027,E1009,06-02-2026,Travel,21500,Credit Card,Sameer Joshi,Tax filing support Kolkata,P-201
+T5028,E1007,07-02-2026,Marketing,18000,Credit Card,Anita Rao,Influencer campaign,P-403
+T5029,E1004,09-02-2026,Office Supplies,2800,Petty Cash,Sameer Joshi,Whiteboards,P-201
+T5030,E1016,10-02-2026,Training,12000,Bank Transfer,Fatima Sheikh,Compliance training,P-504
+T5031,E1003,11-02-2026,Software License,38000,Bank Transfer,Deepak Nair,ERP module upgrade,P-305
+T5032,E1010,12-02-2026,Hardware,55000,Bank Transfer,Kiran Patel,Monitor replacements,P-102
+T5033,E1022,13-02-2026,Travel,9200,Credit Card,Deepak Nair,Distribution hub visit,P-305
+T5034,E1005,14-02-2026,Office Supplies,1500,Petty Cash,Fatima Sheikh,Binder clips and pens,P-504
+T5035,E1012,15-02-2026,Marketing,22000,Credit Card,Anita Rao,Email campaign platform,P-403
+T5036,E1001,16-02-2026,Travel,16300,Credit Card,Sameer Joshi,Audit follow-up Hyderabad,P-201
+T5037,E1019,17-02-2026,Software License,24000,Credit Card,Kiran Patel,GitHub Enterprise,P-102
+T5038,E1015,18-02-2026,Training,8000,Bank Transfer,Sameer Joshi,GST update seminar,P-201
+T5039,E1017,19-02-2026,Marketing,35000,Bank Transfer,Anita Rao,Outdoor hoarding,P-403
+T5040,E1013,20-02-2026,Office Supplies,3800,Petty Cash,Deepak Nair,Safety gloves and masks,P-305
+T5041,E1020,21-02-2026,Travel,7500,Credit Card,Sameer Joshi,Branch visit Jaipur,P-201
+T5042,E1006,22-02-2026,Hardware,31000,Bank Transfer,Kiran Patel,External SSD drives,P-102
+T5043,E1024,23-02-2026,Software License,15000,Credit Card,Kiran Patel,Testing tools license,P-102
+T5044,E1009,24-02-2026,Office Supplies,6200,Petty Cash,Sameer Joshi,Boardroom supplies,P-201
+T5045,E1008,25-02-2026,Travel,13500,Credit Card,Deepak Nair,Factory audit Gujarat,P-305
+T5046,E1002,26-02-2026,Marketing,19500,Credit Card,Anita Rao,Podcast sponsorship,P-403
+T5047,E1014,27-02-2026,Training,45000,Bank Transfer,Kiran Patel,Cloud architecture bootcamp,P-102
+T5048,E1011,28-02-2026,Office Supplies,2200,Petty Cash,Fatima Sheikh,Name badges and lanyards,P-504
+T5049,E1004,01-03-2026,Travel,19800,Credit Card,Sameer Joshi,Client onboarding Lucknow,P-201
+T5050,E1007,02-03-2026,Marketing,27000,Credit Card,Anita Rao,LinkedIn campaign,P-403
+T5051,E1003,03-03-2026,Software License,52000,Bank Transfer,Deepak Nair,SAP license renewal,P-305
+T5052,E1010,04-03-2026,Hardware,38000,Bank Transfer,Kiran Patel,UPS battery replacement,P-102
+T5053,E1022,05-03-2026,Travel,10500,Credit Card,Deepak Nair,Logistics partner visit,P-305
+T5054,E1005,06-03-2026,Training,9500,Bank Transfer,Fatima Sheikh,Payroll software training,P-504
+T5055,E1025,07-03-2026,Travel,17200,Credit Card,Sameer Joshi,Portfolio review Bangalore,P-201
+T5056,E1012,08-03-2026,Marketing,14000,Credit Card,Anita Rao,Press release service,P-403
+T5057,E1016,09-03-2026,Office Supplies,3100,Petty Cash,Fatima Sheikh,First-aid kit refill,P-504
+T5058,E1019,10-03-2026,Hardware,22000,Credit Card,Kiran Patel,Webcam and headset,P-102
+T5059,E1001,11-03-2026,Training,20000,Bank Transfer,Sameer Joshi,Financial modelling workshop,P-201
+T5060,E1015,12-03-2026,Office Supplies,1900,Petty Cash,Sameer Joshi,Calculator batteries,P-201
+T5061,E1013,13-03-2026,Travel,15600,Credit Card,Deepak Nair,Plant maintenance check,P-305
+T5062,E1017,14-03-2026,Marketing,48000,Bank Transfer,Anita Rao,Annual media buy,P-403
+T5063,E1008,15-03-2026,Office Supplies,4100,Petty Cash,Deepak Nair,Packing materials,P-305
+T5064,E1006,16-03-2026,Software License,28000,Bank Transfer,Kiran Patel,Docker Enterprise,P-102
+T5065,E1009,17-03-2026,Travel,23000,Credit Card,Sameer Joshi,Year-end audit prep Mumbai,P-201
+T5066,E1014,18-03-2026,Hardware,85000,Bank Transfer,Kiran Patel,Firewall appliance,P-102
+T5067,E1011,19-03-2026,Training,18000,Bank Transfer,Fatima Sheikh,Diversity and inclusion,P-504
+T5068,E1004,20-03-2026,Office Supplies,5100,Petty Cash,Sameer Joshi,Toner and paper,P-201
+T5069,E1002,21-03-2026,Marketing,31000,Credit Card,Anita Rao,Video production,P-403
+T5070,E1003,22-03-2026,Travel,26000,Credit Card,Deepak Nair,ISO audit Bangalore,P-305
+T5071,E1020,23-03-2026,Training,11000,Bank Transfer,Sameer Joshi,Power BI basics,P-201
+T5072,E1010,24-03-2026,Software License,33000,Bank Transfer,Kiran Patel,VMware license,P-102
+T5073,E1005,25-03-2026,Office Supplies,2400,Petty Cash,Fatima Sheikh,Desk plants and pots,P-504
+T5074,E1007,26-03-2026,Marketing,20000,Credit Card,Anita Rao,Customer testimonial shoot,P-403
+T5075,E1022,27-03-2026,Travel,8800,Credit Card,Deepak Nair,Supplier negotiation Surat,P-305
+T5076,E1024,28-03-2026,Hardware,16000,Credit Card,Kiran Patel,Testing device refresh,P-102
+T5077,E1016,29-03-2026,Training,14000,Bank Transfer,Fatima Sheikh,Leadership development,P-504
+T5078,E1009,30-03-2026,Office Supplies,7500,Petty Cash,Sameer Joshi,Conference room chairs,P-201
+T5079,E1012,31-03-2026,Marketing,26000,Credit Card,Anita Rao,End-of-quarter promo,P-403
+T5080,E1001,01-04-2026,Travel,13000,Credit Card,Sameer Joshi,Tax season client visit,P-201
+T5081,E1014,02-04-2026,Software License,61000,Bank Transfer,Kiran Patel,Microsoft 365 E5 batch,P-102
+T5082,E1003,03-04-2026,Travel,19500,Credit Card,Deepak Nair,Quality check Nagpur,P-305
+T5083,E1006,04-04-2026,Hardware,47000,Bank Transfer,Kiran Patel,Developer workstation,P-102
+T5084,E1002,05-04-2026,Marketing,16500,Credit Card,Anita Rao,WhatsApp business campaign,P-403
+T5085,E1011,06-04-2026,Training,22000,Bank Transfer,Fatima Sheikh,Employee engagement,P-504
+T5086,E1004,07-04-2026,Travel,10200,Credit Card,Sameer Joshi,Branch compliance review,P-201
+T5087,E1008,08-04-2026,Office Supplies,3500,Petty Cash,Deepak Nair,Labels and markers,P-305
+T5088,E1007,09-04-2026,Marketing,38000,Bank Transfer,Anita Rao,Event sponsorship,P-403
+T5089,E1019,10-04-2026,Software License,21000,Credit Card,Kiran Patel,Slack Enterprise Grid,P-102
+T5090,E1015,11-04-2026,Office Supplies,2600,Petty Cash,Sameer Joshi,Envelopes and stamps,P-201
+T5091,E1013,12-04-2026,Travel,14200,Credit Card,Deepak Nair,Vendor follow-up Indore,P-305
+T5092,E1025,13-04-2026,Travel,20500,Credit Card,Sameer Joshi,Investor meet Delhi,P-201
+T5093,E1017,14-04-2026,Marketing,12000,Credit Card,Anita Rao,Flyer distribution,P-403
+T5094,E1010,15-04-2026,Hardware,29000,Bank Transfer,Kiran Patel,Projector replacement,P-102
+T5095,E1020,16-04-2026,Training,16000,Bank Transfer,Sameer Joshi,Advanced Excel part 2,P-201
+T5096,E1005,17-04-2026,Office Supplies,1200,Petty Cash,Fatima Sheikh,Sticky notes and flags,P-504
+T5097,E1009,18-04-2026,Travel,25000,Credit Card,Sameer Joshi,Annual conference Goa,P-201
+T5098,E1022,19-04-2026,Travel,7800,Credit Card,Deepak Nair,Route optimization check,P-305
+T5099,E1016,20-04-2026,Office Supplies,4800,Petty Cash,Fatima Sheikh,Ergonomic accessories,P-504
+T5100,E1006,21-04-2026,Training,40000,Bank Transfer,Kiran Patel,Kubernetes workshop,P-102
+T5101,E1001,22-04-2026,Office Supplies,3300,Petty Cash,Sameer Joshi,Presentation folders,P-201
+T5102,E1014,23-04-2026,Hardware,52000,Bank Transfer,Kiran Patel,Storage array expansion,P-102
+T5103,E1002,24-04-2026,Marketing,24000,Credit Card,Anita Rao,Webinar platform,P-403
+T5104,E1003,25-04-2026,Software License,34000,Bank Transfer,Deepak Nair,Power Automate license,P-305
+T5105,E1011,26-04-2026,Training,28000,Bank Transfer,Fatima Sheikh,Mental health first-aid,P-504
+T5106,E1004,27-04-2026,Office Supplies,3900,Petty Cash,Sameer Joshi,Cable management kit,P-201
+T5107,E1008,28-04-2026,Travel,11800,Credit Card,Deepak Nair,Warehouse setup Vizag,P-305
+T5108,E1007,29-04-2026,Marketing,33000,Credit Card,Anita Rao,Newsletter redesign,P-403
+T5109,E1019,30-04-2026,Software License,19000,Credit Card,Kiran Patel,Figma enterprise,P-102
+T5110,E1024,01-05-2026,Hardware,18000,Credit Card,Kiran Patel,Peripheral refresh,P-102
+T5111,E1012,02-05-2026,Marketing,10500,Credit Card,Anita Rao,SEO audit service,P-403
+T5112,E1015,03-05-2026,Travel,6500,Credit Card,Sameer Joshi,Branch visit Bhopal,P-201
+T5113,E1025,04-05-2026,Training,32000,Bank Transfer,Sameer Joshi,CFA prep course,P-201
+T5114,E1013,05-05-2026,Office Supplies,2900,Petty Cash,Deepak Nair,Fire extinguisher check,P-305
+T5115,E1005,06-05-2026,Training,11000,Bank Transfer,Fatima Sheikh,Conflict resolution,P-504
+T5116,E1020,07-05-2026,Office Supplies,1700,Petty Cash,Sameer Joshi,USB drives,P-201
+T5117,E1017,08-05-2026,Marketing,45000,Bank Transfer,Anita Rao,Product launch event,P-403
+T5118,E1010,09-05-2026,Hardware,72000,Bank Transfer,Kiran Patel,Server memory upgrade,P-102
+T5119,E1006,10-05-2026,Software License,26000,Bank Transfer,Kiran Patel,Jira Premium,P-102
+T5120,E1009,11-05-2026,Travel,15500,Credit Card,Sameer Joshi,Due diligence visit Pune,P-201
+T5121,E1001,12-05-2026,Training,18000,Bank Transfer,Sameer Joshi,Forensic accounting,P-201
+T5122,E1014,13-05-2026,Hardware,34000,Bank Transfer,Kiran Patel,Switch port expansion,P-102
+T5123,E1003,14-05-2026,Travel,21000,Credit Card,Deepak Nair,Lean Six Sigma audit,P-305
+T5124,E1002,15-05-2026,Marketing,29000,Credit Card,Anita Rao,App store campaign,P-403
+T5125,E1011,16-05-2026,Office Supplies,4200,Petty Cash,Fatima Sheikh,Breakroom supplies,P-504
+T5126,E1022,17-05-2026,Travel,12300,Credit Card,Deepak Nair,Cold-chain inspection,P-305
+T5127,E1004,18-05-2026,Office Supplies,5800,Petty Cash,Sameer Joshi,Archive boxes,P-201
+T5128,E1008,19-05-2026,Travel,9700,Credit Card,Deepak Nair,Fleet maintenance review,P-305
+T5129,E1016,20-05-2026,Training,10000,Bank Transfer,Fatima Sheikh,Interview skills,P-504
+T5130,E1007,21-05-2026,Marketing,22000,Credit Card,Anita Rao,Customer survey platform,P-403
+T5131,E1019,22-05-2026,Hardware,14000,Credit Card,Kiran Patel,Docking stations,P-102
+T5132,E1015,23-05-2026,Training,7500,Bank Transfer,Sameer Joshi,Tally refresher,P-201
+T5133,E1025,24-05-2026,Travel,18500,Credit Card,Sameer Joshi,Board prep meeting,P-201
+T5134,E1012,25-05-2026,Marketing,17000,Credit Card,Anita Rao,Packaging redesign,P-403
+T5135,E1013,26-05-2026,Office Supplies,3400,Petty Cash,Deepak Nair,Cleaning supplies,P-305
+T5136,E1005,27-05-2026,Office Supplies,1400,Petty Cash,Fatima Sheikh,Tissue and soap,P-504
+T5137,E1020,28-05-2026,Travel,8200,Credit Card,Sameer Joshi,Client handover Nagpur,P-201
+T5138,E1001,29-05-2026,Office Supplies,5500,Petty Cash,Sameer Joshi,Meeting room tech kit,P-201
+T5139,E1006,30-05-2026,Training,38000,Bank Transfer,Kiran Patel,React advanced course,P-102
+T5140,E1014,31-05-2026,Software License,55000,Bank Transfer,Kiran Patel,Datadog monitoring,P-102
+T5141,E1003,01-06-2026,Travel,24000,Credit Card,Deepak Nair,Supply chain summit,P-305
+T5142,E1009,02-06-2026,Travel,20000,Credit Card,Sameer Joshi,Mid-year review Bangalore,P-201
+T5143,E1002,03-06-2026,Marketing,36000,Credit Card,Anita Rao,Instagram reels campaign,P-403
+T5144,E1011,04-06-2026,Training,26000,Bank Transfer,Fatima Sheikh,POSH certification,P-504
+T5145,E1004,05-06-2026,Travel,12800,Credit Card,Sameer Joshi,Compliance walk Kolkata,P-201
+T5146,E1007,06-06-2026,Marketing,42000,Bank Transfer,Anita Rao,Half-year brand refresh,P-403
+T5147,E1008,07-06-2026,Office Supplies,6100,Petty Cash,Deepak Nair,Warehouse shelving parts,P-305
+T5148,E1010,08-06-2026,Hardware,48000,Bank Transfer,Kiran Patel,NAS storage unit,P-102
+T5149,E1017,09-06-2026,Marketing,25000,Credit Card,Anita Rao,Loyalty program mailer,P-403
+T5150,E1019,10-06-2026,Software License,30000,Bank Transfer,Kiran Patel,Confluence Cloud,P-102
+T5151,E1022,11-06-2026,Travel,10800,Credit Card,Deepak Nair,Vendor renegotiation,P-305
+T5152,E1015,12-06-2026,Office Supplies,2300,Petty Cash,Sameer Joshi,Letterheads,P-201
+T5153,E1005,13-06-2026,Training,13000,Bank Transfer,Fatima Sheikh,Emotional intelligence,P-504
+T5154,E1016,14-06-2026,Office Supplies,3600,Petty Cash,Fatima Sheikh,Welcome kits new hires,P-504
+T5155,E1025,15-06-2026,Travel,16800,Credit Card,Sameer Joshi,Portfolio review Chennai,P-201
+T5156,E1001,16-06-2026,Training,22000,Bank Transfer,Sameer Joshi,Risk management course,P-201
+T5157,E1006,17-06-2026,Hardware,26000,Bank Transfer,Kiran Patel,SSD upgrades,P-102
+T5158,E1013,18-06-2026,Travel,11500,Credit Card,Deepak Nair,Safety compliance audit,P-305
+T5159,E1014,19-06-2026,Training,50000,Bank Transfer,Kiran Patel,CISSP prep course,P-102
+T5160,E1012,20-06-2026,Marketing,19000,Credit Card,Anita Rao,Referral program launch,P-403
+T5161,E1003,21-06-2026,Software License,41000,Bank Transfer,Deepak Nair,Oracle DB license,P-305
+T5162,E1020,22-06-2026,Office Supplies,2100,Petty Cash,Sameer Joshi,Binding machine coils,P-201
+T5163,E1004,23-06-2026,Travel,17500,Credit Card,Sameer Joshi,Client escalation Delhi,P-201
+T5164,E1009,24-06-2026,Office Supplies,8200,Petty Cash,Sameer Joshi,Quarter-end file archival,P-201
+T5165,E1008,25-06-2026,Travel,14300,Credit Card,Deepak Nair,Ops review Coimbatore,P-305
+T5166,E1002,26-06-2026,Marketing,21000,Credit Card,Anita Rao,PR agency retainer,P-403
+T5167,E1011,27-06-2026,Office Supplies,3000,Petty Cash,Fatima Sheikh,ID card printer ribbon,P-504
+T5168,E1007,28-06-2026,Marketing,30000,Credit Card,Anita Rao,Quarterly brand report,P-403
+T5169,E1024,29-06-2026,Software License,12000,Credit Card,Kiran Patel,Postman Enterprise,P-102
+T5170,E1010,30-06-2026,Hardware,40000,Bank Transfer,Kiran Patel,Rack power distribution,P-102
+T5171,E1017,01-05-2026,Marketing,15000,Credit Card,Anita Rao,Mother's Day campaign,P-403
+T5172,E1019,15-03-2026,Hardware,19500,Credit Card,Kiran Patel,Mechanical keyboards,P-102
+T5173,E1022,10-04-2026,Office Supplies,4500,Petty Cash,Deepak Nair,Pallet wrap and tape,P-305
+T5174,E1025,20-02-2026,Training,28000,Bank Transfer,Sameer Joshi,Valuation masterclass,P-201
+T5175,E1016,15-04-2026,Training,9000,Bank Transfer,Fatima Sheikh,Exit interview training,P-504
+T5176,E1024,18-02-2026,Hardware,21000,Credit Card,Kiran Patel,QA tablet devices,P-102
+T5177,E1005,10-03-2026,Office Supplies,1600,Petty Cash,Fatima Sheikh,Desk nameplates,P-504
+T5178,E1015,05-04-2026,Travel,9200,Credit Card,Sameer Joshi,GST seminar Chandigarh,P-201
+T5179,E1012,18-04-2026,Marketing,23000,Credit Card,Anita Rao,Content writing contract,P-403
+T5180,E1020,12-06-2026,Training,14000,Bank Transfer,Sameer Joshi,Dashboard design workshop,P-201
